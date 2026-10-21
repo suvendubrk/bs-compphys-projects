@@ -6,4 +6,5 @@ This repository contains these prominent files -
 1. pendulum.py : SImulates pendulum waves in VIDLE
 2. LCR.py : Simulates subsequent LCR circuits, and makes a graph between voltage of capacitors and time
 3. myfunc.py : Almost all methods for solving computational physics problems
+4. spring-mass-1D : Simulates one-dimensional spring-mass system in different wave resonances
  

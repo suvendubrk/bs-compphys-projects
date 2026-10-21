@@ -1,5 +1,5 @@
 # physics-computation
-Collection of codes for solving various compuataional physics problems
+Collection of codes for solving various compuataional physics problems made during my Bachelor studies. 
 
 This repository contains these prominent files -
 
